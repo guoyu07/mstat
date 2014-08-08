@@ -1,4 +1,4 @@
 mstat
 =====
 
-stat performances in my machin
+stat performances in my machine
